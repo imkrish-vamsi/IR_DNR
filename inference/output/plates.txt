@@ -1,0 +1,8 @@
+#1		Upper: 旭川599		Lower: さ2020
+#2		Upper: 秋田-1		Lower: さ2020
+#3		Upper: 秋田599		Lower: き2020
+#4		Upper: こ摩0533		Lower: こ2020
+#5		Upper: 三5		Lower: こ2020
+#6		Upper: 豊田5999		Lower: さ2020
+#7		Upper: 旭川599		Lower: さ2020
+#8		Upper: 旭川5999		Lower: さ2020
